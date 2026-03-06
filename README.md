@@ -1,2 +1,3 @@
-# publicaciones
-Números de la revista Sector 28 en PDF
+# Publicaciones
+
+Números de la revista Sector 28 en PDF.
